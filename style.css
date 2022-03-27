@@ -1,0 +1,12 @@
+h1 {
+  font-family: Arial;
+  background-color: green;
+  color: blue;
+  padding: 25px 50px 75px 100px;
+}
+
+h2 {
+  font-family: 'Times New Roman', Times, serif;
+  background-color: rgb(245, 4, 185);
+  padding: 25px 50px 75px 100px;
+}
